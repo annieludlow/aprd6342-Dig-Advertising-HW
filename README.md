@@ -1,2 +1,2 @@
-# aprd6342-Dig-Advertising-HW
+# Digital Advertising homework exercises 
 Exercises from class using Python 
